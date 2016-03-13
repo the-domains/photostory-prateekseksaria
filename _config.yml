@@ -1,7 +1,7 @@
 name: photostory-prateekseksaria
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.3482487548608333
+layout_spectrum: 0.34692
+typography_spectrum: 0.01603
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8076552147977054
+    - '#0f5c9f'
+    - '#f7f7f7'
+    - '#0e1317'
+    - '#4991d5'
+    - '#e680af'
+  brandStrength: 0.5
   lightness: 0.983917540172115
-  saturation: 0.24996079970151186
+  saturation: 0.5
   rhythmicContrast: 0.9453508453443646
 purpose: []

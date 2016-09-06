@@ -1,19 +1,4 @@
-name: photostory-prateekseksaria
-favicon: null
-layout_spectrum: 0.34692
 typography_spectrum: 0.01603
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0f5c9f'
@@ -25,4 +10,20 @@ color:
   lightness: 0.983917540172115
   saturation: 0.5
   rhythmicContrast: 0.9453508453443646
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.34692
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: photostory-prateekseksaria
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Germany
 purpose: []
